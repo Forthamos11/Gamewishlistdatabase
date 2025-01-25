@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R8QeMMZskzgoWfjJkowuxLmH5fCpOkzpySsApIewi3Fu16qVcb3Gzuk8dnTLm72Vxe6EsiAEQ83LlMQaZ6WL6g==",
+  "success": true,
+  "projectFilePath": "/home/jannis/Documents/git/Gamewishlistdatabase/Gamewishlistdatabase.csproj",
+  "expectedPackageFiles": [
+    "/home/jannis/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/home/jannis/Documents/git/Gamewishlistdatabase/bin/Debug/net8.0/Gamewishlistdatabase
+/home/jannis/Documents/git/Gamewishlistdatabase/bin/Debug/net8.0/Gamewishlistdatabase.deps.json
+/home/jannis/Documents/git/Gamewishlistdatabase/bin/Debug/net8.0/Gamewishlistdatabase.runtimeconfig.json
+/home/jannis/Documents/git/Gamewishlistdatabase/bin/Debug/net8.0/Gamewishlistdatabase.dll
+/home/jannis/Documents/git/Gamewishlistdatabase/bin/Debug/net8.0/Gamewishlistdatabase.pdb
+/home/jannis/Documents/git/Gamewishlistdatabase/obj/Debug/net8.0/Gamewishlistdatabase.GeneratedMSBuildEditorConfig.editorconfig
+/home/jannis/Documents/git/Gamewishlistdatabase/obj/Debug/net8.0/Gamewishlistdatabase.AssemblyInfoInputs.cache
+/home/jannis/Documents/git/Gamewishlistdatabase/obj/Debug/net8.0/Gamewishlistdatabase.AssemblyInfo.cs
+/home/jannis/Documents/git/Gamewishlistdatabase/obj/Debug/net8.0/Gamewishlistdatabase.csproj.CoreCompileInputs.cache
+/home/jannis/Documents/git/Gamewishlistdatabase/obj/Debug/net8.0/Gamewishlistdatabase.dll
+/home/jannis/Documents/git/Gamewishlistdatabase/obj/Debug/net8.0/refint/Gamewishlistdatabase.dll
+/home/jannis/Documents/git/Gamewishlistdatabase/obj/Debug/net8.0/Gamewishlistdatabase.pdb
+/home/jannis/Documents/git/Gamewishlistdatabase/obj/Debug/net8.0/Gamewishlistdatabase.genruntimeconfig.cache
+/home/jannis/Documents/git/Gamewishlistdatabase/obj/Debug/net8.0/ref/Gamewishlistdatabase.dll

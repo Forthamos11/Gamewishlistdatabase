@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gamewishlistdatabase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cda7f7ef362f4961cd4f6158582624d2d3fbbb3a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ccd283752b0a27c4c37a02686ae405ab59c44f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gamewishlistdatabase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gamewishlistdatabase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

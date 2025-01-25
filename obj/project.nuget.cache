@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "R8QeMMZskzgoWfjJkowuxLmH5fCpOkzpySsApIewi3Fu16qVcb3Gzuk8dnTLm72Vxe6EsiAEQ83LlMQaZ6WL6g==",
+  "dgSpecHash": "oeu0+MbpVnIaQ8ObvNdBw7zheUmiftdicQoHoho1f3uIX+PqQD4v02jSeegwL5G6q8oar8rBkoXOjd9PIFUGDw==",
   "success": true,
   "projectFilePath": "/home/jannis/Documents/git/Gamewishlistdatabase/Gamewishlistdatabase.csproj",
   "expectedPackageFiles": [
+    "/home/jannis/.nuget/packages/igdb/5.1.0/igdb.5.1.0.nupkg.sha512",
+    "/home/jannis/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/home/jannis/.nuget/packages/newtonsoft.json/11.0.1/newtonsoft.json.11.0.1.nupkg.sha512",
+    "/home/jannis/.nuget/packages/restease/1.5.5/restease.1.5.5.nupkg.sha512",
     "/home/jannis/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
   ],
   "logs": []

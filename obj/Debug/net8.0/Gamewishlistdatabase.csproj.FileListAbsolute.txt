@@ -12,3 +12,8 @@
 /home/jannis/Documents/git/Gamewishlistdatabase/obj/Debug/net8.0/Gamewishlistdatabase.pdb
 /home/jannis/Documents/git/Gamewishlistdatabase/obj/Debug/net8.0/Gamewishlistdatabase.genruntimeconfig.cache
 /home/jannis/Documents/git/Gamewishlistdatabase/obj/Debug/net8.0/ref/Gamewishlistdatabase.dll
+/home/jannis/Documents/git/Gamewishlistdatabase/bin/Debug/net8.0/IGDB.dll
+/home/jannis/Documents/git/Gamewishlistdatabase/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/jannis/Documents/git/Gamewishlistdatabase/bin/Debug/net8.0/RestEase.dll
+/home/jannis/Documents/git/Gamewishlistdatabase/obj/Debug/net8.0/Gamewishlistdatabase.csproj.AssemblyReference.cache
+/home/jannis/Documents/git/Gamewishlistdatabase/obj/Debug/net8.0/Gamewishlistdatabase.csproj.CopyComplete

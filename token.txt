@@ -1,3 +1,1 @@
-string ClientId = "ckfozwpl5kwy26ehqkm1vsmpcap9a7";
-string Authorization = "cf65bwkm11trj20awdf067409nhy8f";
-string ClientSecret = "1twj87jnxszi3zin6g9ew5df2hm4xa";
+Haha nearly leaked my api keys there xD
